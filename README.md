@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Artem Terekhov
+## 👋 Hi there, I'm
 
 ### **C# Developer | Desktop & Web Applications | Engineering Plug-ins | React Frontends**
 

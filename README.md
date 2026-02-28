@@ -21,23 +21,39 @@ I design and build reliable software solutions ranging from enterprise web syste
 I follow practical, production-oriented architecture:
 
 [ React Frontend ]
-↓
+→
 [ ASP.NET Core API ]
-↓
+→
 [ Application Services ]
-↓
+→
 [ Domain Layer ]
-↓
+→
 [ Data Access / External Engineering APIs ]
-
-✔ Clean separation of concerns  
-✔ Scalable & testable codebase  
-✔ Easy integration with third-party engineering systems  
-✔ Designed for long lifecycle products
 
 ---
 
 ### In my projects, I use
+
+**Languages**
+
+![Static Badge](https://img.shields.io/badge/C%23-14-purple?style=flat-square&logo=sharp)
+![Static Badge](https://img.shields.io/badge/SQL-grey?style=flat)
+
+
+**Frameworks & Tools**
+
 ![Static Badge](https://img.shields.io/badge/asp-.net-purple?style=for-the-badge&logo=dotnet)
-![Static Badge](https://img.shields.io/badge/cash-Redis-red?style=for-the-badge&logo=redis)
+![Static Badge](https://img.shields.io/badge/cache-redis-red?style=for-the-badge&logo=redis)
+![Static Badge](https://img.shields.io/badge/sql-Postgresql-blue?style=for-the-badge&logo=postgresql)
 ![Static Badge](https://img.shields.io/badge/nosql-mongo-green?style=for-the-badge&logo=mongodb)
+![Static Badge](https://img.shields.io/badge/MB-RabbitMQ-orange?style=for-the-badge&logo=rabbitmq)
+
+
+![Static Badge](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git)
+![Static Badge](https://img.shields.io/badge/GitHub%20Actions-grey?style=for-the-badge&logo=githubactions)
+
+**Practices**
+
+![Static Badge](https://img.shields.io/badge/pipelines-ci%2Fcd-grey?style=social)
+![Static Badge](https://img.shields.io/badge/Automated%20Testing-xUnit-grey?style=social)
+

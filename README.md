@@ -18,14 +18,20 @@ I design and build reliable software solutions ranging from enterprise web syste
 **Frameworks & Tools**
 
 ![Static Badge](https://img.shields.io/badge/ASP.NET%20Core-.NET-purple?style=for-the-badge&logo=dotnet)
-![Static Badge](https://img.shields.io/badge/cache-redis-red?style=for-the-badge&logo=redis)
+![Static Badge](https://img.shields.io/badge/WinForms-WPF-purple?style=for-the-badge&logo=dotnet)
+![Static Badge](https://img.shields.io/badge/App-React-blue?style=for-the-badge&logo=react)
+
 ![Static Badge](https://img.shields.io/badge/sql-Postgresql-blue?style=for-the-badge&logo=postgresql)
+![Static Badge](https://img.shields.io/badge/cache-redis-red?style=for-the-badge&logo=redis)
 ![Static Badge](https://img.shields.io/badge/nosql-mongo-green?style=for-the-badge&logo=mongodb)
 ![Static Badge](https://img.shields.io/badge/MB-RabbitMQ-orange?style=for-the-badge&logo=rabbitmq)
+![Static Badge](https://img.shields.io/badge/Node-.js-green?style=for-the-badge&logo=nodedotjs)
 
 
 ![Static Badge](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git)
 ![Static Badge](https://img.shields.io/badge/GitHub%20Actions-grey?style=for-the-badge&logo=githubactions)
+![Static Badge](https://img.shields.io/badge/containers-Docker-blue?style=for-the-badge&logo=docker)
+
 
 **Practices**
 
@@ -58,4 +64,13 @@ I follow practical, production-oriented architecture:
 
 ---
 
+## 📫 Contact
+
+Feel free to reach out if you want to collaborate or discuss engineering software development.
+
+![Static Badge](https://img.shields.io/badge/Email%3A-a.a.terekhov%40mail.ru-blue?style=plastic&logo=maildotru&link=a.a.terekhov%40mail.ru)
+ 
+![Static Badge](https://img.shields.io/badge/Telegram-my-blue?style=plastic&logo=telegram&link=https%3A%2F%2Ft.me%2Fterekhov8)
+
+![Static Badge](https://img.shields.io/badge/Website-my-blue?style=plastic&link=https%3A%2F%2Fweb.terekhov-aa.ru%2F)
 

@@ -5,6 +5,33 @@
 Welcome to my GitHub profile!  
 I design and build reliable software solutions ranging from enterprise web systems to specialized plug-ins for engineering tools, with modern React-based user interfaces.
 
+### In my projects, I use
+
+**Languages**
+
+![Static Badge](https://img.shields.io/badge/C%23-14-purple?style=flat&logo=sharp)
+![Static Badge](https://img.shields.io/badge/TypeScript-TS-blue?style=flat&logo=typescript)
+![Static Badge](https://img.shields.io/badge/JavaScript-JS-yellow?style=flat&logo=javascript)
+![Static Badge](https://img.shields.io/badge/SQL-grey?style=flat)
+
+
+**Frameworks & Tools**
+
+![Static Badge](https://img.shields.io/badge/ASP.NET%20Core-.NET-purple?style=for-the-badge&logo=dotnet)
+![Static Badge](https://img.shields.io/badge/cache-redis-red?style=for-the-badge&logo=redis)
+![Static Badge](https://img.shields.io/badge/sql-Postgresql-blue?style=for-the-badge&logo=postgresql)
+![Static Badge](https://img.shields.io/badge/nosql-mongo-green?style=for-the-badge&logo=mongodb)
+![Static Badge](https://img.shields.io/badge/MB-RabbitMQ-orange?style=for-the-badge&logo=rabbitmq)
+
+
+![Static Badge](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git)
+![Static Badge](https://img.shields.io/badge/GitHub%20Actions-grey?style=for-the-badge&logo=githubactions)
+
+**Practices**
+
+![Static Badge](https://img.shields.io/badge/pipelines-ci%2Fcd-grey?style=social)
+![Static Badge](https://img.shields.io/badge/Automated%20Testing-xUnit-grey?style=social)
+
 ---
 
 ## 🔧 What I Do
@@ -14,7 +41,6 @@ I design and build reliable software solutions ranging from enterprise web syste
 ✔ Create **rich desktop clients (WPF / WinForms)**  
 ✔ Write **custom plug-ins for engineering & CAD software**  
 ✔ Design **React frontends** that integrate seamlessly with .NET backends  
-✔ Focus on **clean architecture, maintainability, and performance**
 
 ## 🏗 Architecture Approach
 
@@ -32,28 +58,4 @@ I follow practical, production-oriented architecture:
 
 ---
 
-### In my projects, I use
-
-**Languages**
-
-![Static Badge](https://img.shields.io/badge/C%23-14-purple?style=flat-square&logo=sharp)
-![Static Badge](https://img.shields.io/badge/SQL-grey?style=flat)
-
-
-**Frameworks & Tools**
-
-![Static Badge](https://img.shields.io/badge/asp-.net-purple?style=for-the-badge&logo=dotnet)
-![Static Badge](https://img.shields.io/badge/cache-redis-red?style=for-the-badge&logo=redis)
-![Static Badge](https://img.shields.io/badge/sql-Postgresql-blue?style=for-the-badge&logo=postgresql)
-![Static Badge](https://img.shields.io/badge/nosql-mongo-green?style=for-the-badge&logo=mongodb)
-![Static Badge](https://img.shields.io/badge/MB-RabbitMQ-orange?style=for-the-badge&logo=rabbitmq)
-
-
-![Static Badge](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git)
-![Static Badge](https://img.shields.io/badge/GitHub%20Actions-grey?style=for-the-badge&logo=githubactions)
-
-**Practices**
-
-![Static Badge](https://img.shields.io/badge/pipelines-ci%2Fcd-grey?style=social)
-![Static Badge](https://img.shields.io/badge/Automated%20Testing-xUnit-grey?style=social)
 

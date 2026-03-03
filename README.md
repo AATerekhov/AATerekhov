@@ -4,6 +4,7 @@
 
 Welcome to my GitHub profile!  
 I design and build reliable software solutions ranging from enterprise web systems to specialized plug-ins for engineering tools, with modern React-based user interfaces.
+[CV resume](https://github.com/AATerekhov/AATerekhov/blob/main/TerekhovArtemResume.pdf)
 
 ### In my projects, I use
 

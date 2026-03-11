@@ -1,66 +1,177 @@
-## 👋 Hi there, I'm
+# 👋 Hi, I'm Artem
 
-### **C# Developer | Desktop & Web Applications | Engineering Plug-ins | React Frontends**
+## .NET Backend Developer
 
-Welcome to my GitHub profile!  
-I design and build reliable software solutions ranging from enterprise web systems to specialized plug-ins for engineering tools, with modern React-based user interfaces.
-[My Resume](https://github.com/AATerekhov/AATerekhov/blob/main/Terekhov.Artem.Resume.pdf)
+ASP.NET Core • Distributed Systems • Clean Architecture
 
-### In my projects, I use
+I build **production-style backend services** using modern .NET technologies and architecture practices such as **DDD, CQRS, containerization and event-driven systems**.
 
-- **Languages**
-
-  ![Static Badge](https://img.shields.io/badge/C%23-14-purple?style=flat&logo=sharp)
-  ![Static Badge](https://img.shields.io/badge/TypeScript-TS-blue?style=flat&logo=typescript)
-  ![Static Badge](https://img.shields.io/badge/JavaScript-JS-yellow?style=flat&logo=javascript)
-  ![Static Badge](https://img.shields.io/badge/SQL-grey?style=flat)
-
-
-- **Frameworks & Tools**
-
-  ![Static Badge](https://img.shields.io/badge/ASP.NET%20Core-.NET-purple?style=for-the-badge&logo=dotnet)
-  ![Static Badge](https://img.shields.io/badge/WinForms-WPF-purple?style=for-the-badge&logo=dotnet)
-  ![Static Badge](https://img.shields.io/badge/App-React-blue?style=for-the-badge&logo=react)
-
-  ![Static Badge](https://img.shields.io/badge/sql-Postgresql-blue?style=for-the-badge&logo=postgresql)
-  ![Static Badge](https://img.shields.io/badge/cache-redis-red?style=for-the-badge&logo=redis)
-  ![Static Badge](https://img.shields.io/badge/nosql-mongo-green?style=for-the-badge&logo=mongodb)
-  ![Static Badge](https://img.shields.io/badge/MB-RabbitMQ-orange?style=for-the-badge&logo=rabbitmq)
-  ![Static Badge](https://img.shields.io/badge/Node-.js-green?style=for-the-badge&logo=nodedotjs)
-
-
-  ![Static Badge](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git)
-  ![Static Badge](https://img.shields.io/badge/GitHub%20Actions-grey?style=for-the-badge&logo=githubactions)
-  ![Static Badge](https://img.shields.io/badge/containers-Docker-blue?style=for-the-badge&logo=docker)
-
-
-- **Practices**
-
-  ![Static Badge](https://img.shields.io/badge/pipelines-ci%2Fcd-grey?style=social)
-  ![Static Badge](https://img.shields.io/badge/Automated%20Testing-xUnit-grey?style=social)
+My focus is building **scalable APIs, reliable backend systems and well-structured domain-driven applications**.
 
 ---
 
-- 🔧 What I Do:
+# 🚀 Featured Project
 
-  ✔ Develop **high-performance C# applications**  
-  ✔ Build **web platforms using .NET (ASP.NET Core / Web API)**  
-  ✔ Create **rich desktop clients (WPF / WinForms)**  
-  ✔ Write **custom plug-ins for engineering & CAD software**  
-  ✔ Design **React frontends** that integrate seamlessly with .NET backends  
+## Order Management System API
 
+Production-style **e-commerce backend** demonstrating real-world backend architecture.
 
-- 🏗 Architecture Approach - I follow practical, production-oriented architecture:
-  <p>[ React Frontend ] → [ ASP.NET Core API ] → [ Application Services ] → [ Domain Layer ] → [ Data Access / External Engineering APIs ]</p>
+### Tech Stack
+
+- ASP.NET Core Web API
+- Entity Framework Core
+- PostgreSQL
+- Redis
+- RabbitMQ
+- Docker / Docker Compose
+- Duende IdentityServer
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet)
+![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+
+### Architecture
+
+- Domain Driven Design (DDD)
+- Clean Architecture
+- CQRS
+- Event-driven architecture
+- RESTful API design
+
+### Key Features
+
+- Authentication & Authorization (IdentityServer)
+- Order lifecycle management
+- Product catalog management
+- Event-driven order processing
+- Idempotent message handling
+- Integration testing
+- Containerized development environment
 
 ---
 
-- 🌄About me - Family man who enjoys peaceful country holidays and long walks in wild, untouched nature. 
-  <img src="https://img.shields.io/badge/About%20Me-Family%20%E2%80%A2%20Nature%20%E2%80%A2%20Countryside-4CAF50?style=flat-square&logo=leaflet&logoColor=white" /> 
-- 📫 Contact  
-  <a href="mailto:a.a.terekhov@mail.ru">
-    <img src="https://img.shields.io/badge/Mail-mail.ru-168DE2?style=flat-square&logo=maildotru&logoColor=white">
-  </a> 
-  <a href="https://t.me/terekhov8">
-    <img src="https://img.shields.io/badge/Telegram-@terekhov8-26A5E4?style=flat-square&logo=telegram&logoColor=white">
-  </a>
+# 🏗 Architecture Overview
+
+Typical architecture used in my backend services:
+
+Frontend (React)
+      ↓
+ASP.NET Core API
+      ↓
+Application Layer (Use Cases)
+      ↓
+Domain Layer (Business Logic)
+      ↓
+Infrastructure Layer
+      ↓
+PostgreSQL / Redis / RabbitMQ
+
+Principles:
+
+- Separation of concerns
+- Domain-centric design
+- Scalable backend architecture
+
+---
+
+# 🧠 Backend Engineering Skills
+
+### Core Backend
+
+- ASP.NET Core Web API
+- Entity Framework Core
+- REST API Design
+- Authentication & Authorization (JWT / OAuth / IdentityServer)
+
+### Architecture
+
+- Clean Architecture
+- Domain Driven Design (DDD)
+- CQRS
+- Event-driven systems
+
+### Databases
+
+- PostgreSQL
+- Redis
+- MongoDB
+
+### Messaging
+
+- RabbitMQ
+- Asynchronous communication
+
+### DevOps
+
+- Docker
+- Docker Compose
+- GitHub Actions
+- CI/CD pipelines
+
+### Testing
+
+- xUnit
+- Integration testing
+- Testable architecture
+
+---
+
+# 🧩 Engineering Practices
+
+- SOLID principles
+- Repository pattern
+- Unit of Work
+- Dependency Injection
+- API versioning
+- Structured logging
+- Performance-aware EF Core usage
+
+---
+
+# 📦 Example Projects
+
+### Order Management System API
+DDD-based backend system for e-commerce.
+
+### Messaging Demo
+Microservice communication with RabbitMQ.
+
+### EF Core Performance Playground
+
+Examples of:
+
+- N+1 problem
+- Tracking vs NoTracking
+- Query optimization
+- Performance benchmarks
+
+---
+
+# 📚 Currently Learning
+
+- Distributed systems architecture
+- Event sourcing
+- High-performance EF Core patterns
+- Scalable API system design
+
+---
+
+# 📊 Engineering Focus
+
+- Building maintainable backend systems
+- Designing scalable APIs
+- Writing production-grade code
+- Learning advanced architecture patterns
+
+---
+
+# 📫 Contact
+
+Email: a.a.terekhov@mail.ru  
+Telegram: @terekhov8
+
+GitHub: https://github.com/AATerekhov
+Resume: [My Resume](https://github.com/AATerekhov/AATerekhov/blob/main/Terekhov.Artem.Resume.pdf)

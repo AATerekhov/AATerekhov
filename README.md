@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Artem
 
-## .NET Backend Developer
+## Middle .NET Developer / Backend Engineer
 
 ASP.NET Core • Distributed Systems • Clean Architecture
 
@@ -115,7 +115,6 @@ Principles:
 
 - xUnit
 - Integration testing
-- Testable architecture
 
 ---
 

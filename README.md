@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Artem
 
-## Middle .NET Developer / Backend Engineer
+## .NET Developer / Backend Engineer
 
 ASP.NET Core • Distributed Systems • Clean Architecture
 
